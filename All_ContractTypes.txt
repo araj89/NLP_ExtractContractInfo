@@ -1,0 +1,2794 @@
+0 (template): 
+Default
+MNDA
+MSA
+NDA
+SOW
+1 (Contract Logix): 
+Agreement
+BAA
+Client / Server Agreement
+Consulting Agreement
+Data Processing Addendum
+Engagement Letter
+Express Agreement
+Independent Contractor
+Lease Agreement
+License Agreement
+MNDA
+MSA
+NDA
+OnPremise Agreement
+Order Form
+Premium Agreement
+Purchase Order
+Reseller Agreement
+SaaS Agreement
+Service Agreement
+SOW
+Sponsorship Agreement
+2 (For Upload): 
+Default
+MNDA
+MSA
+NDA
+SOW
+5 (Pratt Regional Medical Center): 
+AFFILIATION AGREEMENT
+CONSULTING AGREEMENT
+CONTRACTED SERVICES
+COOPERATION AGENCY AGREEMENT
+LEASE AGREEMENT
+LICENSES
+MANAGEMENT AGREEMENT
+MOU
+MSA
+NDA
+PARTICIPATION AGREEMENT
+PATIENT TRANSFER AGREEMENT
+PHYSICIAN LOCUMS TENENS
+PURCHASE AGREEMENT
+SOW
+SUBSCRIPTION AGREEMENT
+6 (Carlos Rosario Intl Public Charter): 
+Consulting Agreement
+Employment Agreement
+Grant Agreement
+Insurance Agreement
+Internship Agreement
+Lease of Goods
+MOU
+NDA
+Other Contracts
+Partnership Agreement
+Purchase of Goods
+Purchase of Goods & Services
+Purchase of Services
+Real Estate Lease
+Technology Agreement
+10 (GOJO Industries, Inc.): 
+Addendum/Amendment
+Affidavit
+Authorization Letter
+Contract Manufacturing Agreements
+Cooperation Agreement
+Customer Agreement
+Data Privacy and Information Security Agreements
+Distribution Agreement
+Event Agreement
+Joint Development Agreement
+Legacy Contract
+Letters/Correspondence
+License Agreement
+Logistic Agreements
+Other Lease Agreements
+Other/ Misc Agreement
+Quality Agreement
+Real Estate Agreements
+Regulatory/Country of Origin
+Sales Rep Letter of Appointment
+Services Agreement
+Shared Investment (SI)
+Software Agreement
+State Use Agreement
+Supplier Agreement
+Test Test
+11 (Recorded Books ): 
+Audio Publishing Agreement
+Business Operations Agreement
+Consulting/Independent Contractor Agreement
+Inbound Licensing/Distribution Agreement
+NDA/MNDA
+Outbound Licensing Agreement
+Performance Society Agreement
+Real Estate Lease Agreement
+Service Partner Agreement
+Settlement Agreement
+Software License Agreement
+Test Contract Type
+15 (AxoGen Corporation): 
+Consignment
+Default
+Freezer Agreements
+IP
+Licensor
+OUS Distributor
+Pricing Exceptions/Agreements
+Real Estate
+Vendor/Consultants
+16 (Safariland, LLC): 
+B2B
+B2B Real Estate
+Direct Sales
+Domestic Reseller
+International Reseller
+OEM/VAR Reseller
+17 (Prasco Laboratories): 
+CDA / NDA
+Consultant Agreement
+Customer Sales Agreement
+Customer Sales Vendor
+Lease
+NDC Record
+Partner Contracts
+Vendor
+19 (Cornerstone Credit Union League): 
+Default
+MNDA
+MSA
+NDA
+SOW
+20 (Sea Island Acquisitions, LLC): 
+Agreement - Default
+Amendment
+Lease Agreement
+Letter Agreement
+License Agreement
+Master Service Agreement
+NDA
+Opinion Letter
+Other
+POA
+Purchase Order
+Service Agreement
+Termination
+23 (Alta Mesa Services, LP): 
+Bill of Sale
+Drilling Contract
+Licensing / Software Agreement
+Master Compression Agreement
+Master Service Agreement
+Non-Disclosure Agreement
+Professional Services Agreement
+Purchase Sale Agreement
+Rental Equipment Agreement
+Terms & Conditions (when in lieu of MSA)
+24 (Boston Mutual Life Insurance Company): 
+Convention
+Executive
+License
+Master Services
+Meeting
+NDA
+Other
+Professional Services
+RBK
+Real Estate
+Recruitment
+Reinsurance
+Settlement
+Severance
+Software as a Service
+SOW
+Subscription
+TPA
+25 (Hylant): 
+BAA
+BSA
+Co-Agent Agreements
+Consulting
+Corporate Entity Agreements
+Independent Contractor Agreements
+Information Technology Agreements
+Legal Hold
+M&A Documents
+Marketing & Sales
+MSA
+NDA
+Office Lease
+Policies & Procedures
+SOW
+Sponsorships
+Subscriptions
+26 (Corona-Norco Unified School District): 
+Contract
+Contract - DO NOT USE
+CUPCCAA $15K - $60K
+Field Contract
+HR Affiliation Agreement
+Lease Agreement
+License Agreement
+Memorandum of Understanding
+Procurement - Bid/RFP/RFQ Documents
+Professional Services Agreement
+Retainer Agreement
+Transition Partnership Agreement (student work experience)
+WorkAbility Employment Agreement (student work experience)
+27 (Intellisoft Group LLC): 
+Default
+MNDA
+MSA
+NDA
+SF Contracts
+SOW
+28 (SmokeTest): 
+Archived Field Test Type
+Confused Type
+Default
+MNDA
+MSA
+NDA
+Prem Test Type Copy
+Premium Test Type
+SOW
+Test Type
+Trouble Type
+Workflow Type
+29 (Governor's Office of Student Achievement): 
+Accelerator Grant
+Auditing
+Community Partnership Grant
+Connections for Classrooms
+D3 Grant
+Data Request
+GAAWARDS Interagency
+GHP Administrator
+GHP Berry College
+GHP Department Chair
+GHP Instructor
+GHP Nursing
+Grant Reviewer
+Growing Readers
+GSLA RESA Teacher
+Implementation Grant
+Innovation
+Innovation in Teaching Grant
+Innovation Summit Pilot Grant
+Interagency
+Professional Learning
+Research
+Scaling Grant
+Speaker
+Tiny Grant
+Vendor
+30 (Randolph Health): 
+BAA (Business Associates Agreement)
+Lease Agreement (Equipment)
+Lease Agreement (Property)
+Maintenance Agreement
+MSA (Master Services Agreement)
+NDA (Nondisclosure Agreement)
+Other
+Participation Agreement
+Privacy Agreement
+Purchase Agreement (Equipment)
+Services Agreement
+Software Agreement
+Software Subscription
+SOW (Statement of Work)
+Template (Do Not Use)
+31 (MedAvail Technologies Inc.): 
+Business Associate Agreement
+Default
+LEASE
+License Agreement
+MOUs
+MSA
+NDA
+Pilot Agreement
+SLA (IT)
+SLA (NON-IT)
+SOW
+32 (The Legacy Senior Living Communities, Inc): 
+Default
+MNDA
+MSA
+NDA
+SLA
+SOW
+33 (Sterling Healthcare Opco, LLC): 
+Acquisition Agreement
+Amendment - Termination
+BAA/QSOA
+Board
+Client Services Agreements (Direct Acct./Client Billing-Healthcare client)
+Clinical Trial - Research Agreement
+Company License
+Compliance Review Docs
+Confirmation Letters
+Corporate Filings
+Employment Agreement
+Engagement Letter
+Equipment Agreement
+Fair Market Value Assessment
+Finance Agreement
+GPO Agreement
+Insurance Documents - Corporate
+IT License - Software Agreement
+LCS - PC Agreement
+Marketing Services Agreement
+Medicaid Payer/Credentialing Agreements
+Non-Disclosure - Confidentiality Agreement
+Outsourced Collection Services Agreements
+Payer/Credentialing Agreements
+Personal Services
+Prior Approval Form
+Reference lab - Private Label Agreements (Buying/Selling of Lab Services)
+Rental Space Lease Agreement
+Service Agreement (Lab or Collection Services)
+Settlement Agreement
+Severance Agreement
+Third-Party Collection Services
+Vendor Agreement
+Vendor Agreement (Suppliers, Facilities)
+Workers' Comp Payor Agreements
+34 (Romark, LC): 
+Agreement
+License/Registration
+Organizational Document
+Patent/Trademark
+35 (Clark Richardson & Biskup Consulting): 
+Confidentiality/Non-Disclosure/Mutual Non-Disclosure Agreement
+Contract (if type not listed below)
+Master Service Agreement
+Memorandum of Understanding
+Notice to Proceed (DSG)
+Statement of Work
+Subcontract/consultant Agreement (CSG)
+Terms &Condition's/Purchase Order's
+36 (Ocular Therapeutix): 
+CDA/Three Way CDA
+Change Orders
+Consulting Agreements
+Convertible Notes
+CTA/CSA
+Default
+HCP Agreements
+Leases
+Licenses
+Material Transfer Agreements MTA
+MNDA
+MSA
+NDA
+Quotes/Proposals
+Service Agreements
+Software
+SOW
+Vendor/Supplier
+Work Order/Task Order
+37 (Olympia Chimney Supply Holdings LLC): 
+Access Agreement
+Active Trademarks
+Administrative Services Agreement
+Advertising Agreement
+Agreement
+Audit
+Bill Rate
+Board of Directors / Committee of Directors
+By-Laws
+Carrier Agreement
+Certificate of Liability Insurance
+Confidentiality Agreement
+Consulting Services
+Contract for service
+Conversion Agreement
+Corporate Registration - Shares
+Corporation License Agreement
+Credit Authorization
+Data Validation & User Acceptance Testing Facilitation
+Default
+Directors Resolutions
+Employment Screening
+Engagement Agreement
+Exclusive Right Agreement
+Exhibit Contract
+Explanation of Services
+Guaranty of Lease
+Insertion Order Form
+Intellecutal Property Assignment Agreement
+Investment
+Invoice
+Lease Agreements
+Letter of Intent
+License Agreement
+Master Service Agreement
+MNDA
+MSA
+NDA
+Paycheck Protection Program
+POA
+Pricing Agreement
+Professional Services Agreement
+Program Parameters & Policies
+Purchase Agreement
+Purchase Price Allocation
+Quotation
+Quote / Quotation
+Rates
+Registration Renewal
+RX Benefit Summary
+Sales Agreement
+Service Agreement
+Share Certificate
+Shareholders Agreement
+SOW
+Spending Account Renewal
+Staffing Agreement
+Statement of Agreed Pricing (SOAP)
+Sublease Agreement
+Subscription Order Form
+Supply Agreement
+Terms & Conditions
+Trademark
+Training Agreement
+Vendor Agreement
+Web Store Hosting Agreement
+38 (OpSec Security, Inc.): 
+Agency Agreement
+Consortium Agreements
+Distributor Agreement
+Insurance Records
+MOU / LOI
+MSA
+NDA
+Online Services
+Power of Attorney (POA)
+Purchase Order
+Quality Agreement
+Real Estate Agreement
+Software as a Service (SaaS) Agreement
+SOW (Schedule)
+Standard Agreement Templates
+Standard T&C Templates
+Supplier Accreditation
+Supply Agreement
+Supply Chain Agreement
+39 (ACTS-Aviation Security, Inc.): 
+Access Agreement
+Bond
+Employee Agreement
+Employee Settlement
+Financial Agreement
+Lease
+Legal Settlement
+License
+NDA
+Permit
+Service Contract
+Vendor Contract
+40 (PDC Energy, Inc.): 
+Confidentiality
+HR Confidential Agreements
+Lease
+License
+Litigation/Legal Confidential
+Marketing
+Master
+Midstream Crude
+Midstream Gas
+Midstream Water
+Services
+Statement of Work
+Transaction
+43 (MedStar Mobile Healthcare): 
+AF
+BAA
+CS
+Default
+ED
+Fee For Service
+MA
+MIH
+MNDA
+MOU
+MSA
+NDA
+NE
+SE
+SOW
+VS
+45 (Weight Watchers International Inc.): 
+Acknowledgment
+Agency Agreement
+Amendment
+Asset Purchase Agreement
+Business Associate Agreement
+Change Order Request
+Consent and Release
+Consulting Agreement
+Contract Summary Form
+Co-Pack Agreement
+Corporate Records
+Co-Services & Co-Marketing Agreement
+Data Processing Agreement
+Deed of Acknowledgment
+Distribution Agreement
+Employee Insurance
+Endorsement Agreement
+Engagement Letter
+Executed Agreement
+Franchise Agreement
+Health Solutions Agreement
+Indenture
+Independent Contract Agreement
+Influencer Agreement
+Lease Agreement
+Letter Agreement
+Licensing Agreement
+Loan Agreement
+Market Research Agreement
+Master Service Agreement
+Non-Disclosure Agreement
+Operating Agreement
+Order Form
+Other
+Outsourcing Agreement
+Partnership Agreement
+People Agreement
+Professional Services Agreement
+Promissory Note
+Publishing Agreement
+Purchase Agreement
+Recruiting Services Agreement
+Regional Health Solutions Agreement
+Research Agreement
+Restructure Agreement
+Retainer Agreement
+Rider
+Service Agreement
+Service Order
+Settlement Agreement
+Shareholder Agreement
+Spokesperson Agreement
+Sponsorship Agreement
+Statement of Work
+Strategic Collaborative Agreement
+Subscription Agreement
+Term Sheet
+Terms and Conditions
+Workplace Workshop Series Agreement
+46 (Rotech Healthcare, Inc.): 
+Billing Agreement
+COVID-19 Facility Agreement
+Hospice
+Hospital
+IT
+Lease
+Legal
+LOA
+Managed Care
+Non-Par
+Nursing Home
+Other
+PSA
+Purchasing
+Single Patient Agreement
+VA
+48 (CLX): 
+Default
+MNDA
+MSA
+NDA
+SOW
+49 (Caribou Biosciences, Inc.): 
+Clinical Trial Agreement
+Collaboration/Research Agreement
+Common Legal Interest Agreement
+Lease Agreement
+Letter of Intent/MOU/Term Sheet
+License Agreement
+Master Services Agreement
+Material Transfer Agreement
+Non-Disclosure Agreement
+Permissions/Restrictions/Certifications
+Purchase Agreement
+Services/Consulting Agreement
+50 (StoryCorps, Inc.): 
+Animation Agreement  (Specialized)
+Community Archive & License Agreement (CALA) - 2020
+Community Archive & License Agreement (CALA) - Client Affiliates
+Community Archive & License Agreement (CALA) - On Site & Online
+Community Training Services Agreement
+Community Training Services Agreement Amendment
+Consultant Agreement
+Corporate Partnership Agreement
+CPB Agreement
+Development 3rd Party Contract
+Digital 3rd Party Contract
+Distribution Agreement
+Event & Rental Agreements
+Grant Agreement
+HR 3rd Party Contract
+Independent Contractor Form
+Individual Giving Agreement
+Major Gift Agreement
+Marketing Third Party Agreement
+Memorandum of Understanding (MOU)
+Mobile Letter of Agreement (LOA)
+Music License Agreement FEE
+Music License Agreement NO FEE
+Mutual NDA
+MVI Station LOA
+NPR Agreement
+OSS Station LOA
+Recording & License Agreement (RLA)
+Services Agreement
+Speaking Engagements
+Speaking Presentation Agreement FEE
+Speaking Presentation Agreement NO FEE
+Statement of Work (SOW)
+StoryBooth Partner Agreement (Lease)
+StoryBooth Radio Station Agreement - ABE
+StoryBooth Radio Station Agreement - BEZ
+Unilateral NDA
+51 (Audubon Nature Institute): 
+CEA's
+Construction
+ESCO Performance Based
+Lease (Real Property)
+Material, Supplies & Equipment (Includes Animal Food)
+Pre-Disaster Contracts
+Professional Services
+Revenue Share
+SaaS
+Service Agreement
+52 (West Marine Products, Inc.): 
+Certificate of Insurance
+Goods
+IT Hardware
+Lease
+Master Agreement
+Membership
+NonDisclosure Agreement
+Services or Consulting
+Software or SaaS
+Telecom
+Vendor SetUp
+Vendor Trade Agreement
+53 (Osmose Utilities Services, Inc.): 
+Change Order
+Contract Order
+Default
+Equipment Leases
+MSA
+NDA
+Proposal
+Purchase Order
+Software
+Subcontractor
+Subcontractor Task Order
+Vendor Agreement
+Vendor Task Order
+54 (Coca-Cola Bottling Company United): 
+ARTM
+BEVERAGE MARKETING
+BOARD
+BRAND
+CASINO
+CBA
+CCBSS
+CMA
+COI
+CONA
+EQUIPMENT PLACEMENT AGREEMENT
+FGSA
+GOVERNANCE
+LARGE MARKETING/PREMIERE ASSET
+LIABILITY WAVIER
+MNDA
+MSA
+NDA
+NPSG
+OPERATING
+PATENT
+PROCUREMENT
+REAL ESTATE
+RMA
+VENDING ONLY
+55 (PruittHealth, Inc.): 
+ACOs and Value Based Agreements
+ALF
+Ambulance
+Asset Purchase Agreement
+Associated Medical Director
+Barber/Beautician
+Business Associate Agreement (BAA)
+Clinical Learning Agreement
+Clinical Services
+Credentialing Documents
+Dental
+Dialysis
+Disaster Plan
+Dish Machine
+DME
+Equipment Leases
+Eye/Ear/Podiatry Care
+Fire Protection
+Food/Vending
+Goods and Services Agreement
+GPO/Letter of Participation
+Hardware Leases
+Hospice
+Infusion
+Inpatient/Respite/Outpatient (GIP)
+Insurance Agreements
+Insurance Amendments
+Insurance Cancellation
+IT
+Laboratory Services
+Landscaping
+Letter of Intent
+Maintenance and Service Agreements
+Marketing/Advertising
+Master Services Agreement (MSA)
+Master Services Agreement (MSA) - Consulting Services
+Medical Director
+Memorandum of Understanding (MOU)
+Non-Disclosure (NDA)
+Nursing Home
+Operations Transfer Agreement
+Pest Control
+Pharmacy (Consulting/Provider)
+Physician
+Power of Attorney
+Preferred Provider
+Professional Services
+Property Leases
+Provider
+Psychiatrist
+Software Licenses
+Staffing
+Statement of Work (SOW)
+Subscriptions
+Supplies
+Therapy Service
+Transfer Agreement (Hosp/Facility)
+Traveling Patient
+University/College
+Warranties
+X-Ray
+56 (LCB Senior Living LLC): 
+Food Service
+G & A
+Housekeeping
+Maintenance
+Marketing
+MNDA
+MSA
+Non-Disclosure Agreements
+SOW
+Utilities
+57 (RX Savings Solutions): 
+Amendment (Data Share)
+Amendment (MSA)
+Amendment (SOW)
+Amendment to Agreement (Vendor)
+Assignment
+BAA
+Confidentiality Agreement
+Consulting Agreement
+Correspondence/E-mail
+Data Share Agreement
+Default
+Fee Agreement (Vendor)
+Guaranty
+Independent Contractor Agreement
+Insurance Agreement/Policy
+Lease Agreement
+Letter of Intent
+License Agreement
+MNDA
+MSA
+NDA
+Other Agreement
+Professional Services Agreement
+SaaS Agreement
+Security/Data Protection Agreement
+SOW
+Supplier Agreement
+Termination Agreement (Customer)
+Termination Agreement (Vendor)
+Terms of Use
+Vendor Purchase Order
+Vendor Services Agreement
+59 (Surgical Care Affiliates, LLC): 
+Business Associate Agreement
+Confidentiality Agreement
+Consulting Agreement
+Development Agreement
+Human Resource Teammate Record
+Legal Memorandum
+Letter of Intent
+Licenses
+Operating/Partnership Agreement
+Services Agreement
+SMS Facility Agreement
+SOS Filings
+Vendor Agreement
+60 (City of Fitchburg Massachusetts): 
+BUILDING CONSTRUCTION c149
+DESIGNER/ARCHITECT c7
+ENGINEERING SERVICES
+PRACTICE 149
+PRACTICE B c30,39M
+PRACTICE SUPPLIES 
+PROFESSIONAL SERVICES/OPM
+PUBLIC WORKS c30 39m
+REAL PROPERTY c30B
+SUPPLIES AND SERVICES c30B
+WINTER OPERATIONS
+61 (Cinq Music Group, LLC): 
+Asset Purchase Agreement
+Distribution License Agreement (ADVANCE)
+Distribution License Agreement (LIMITED)
+MSA
+Mutual NDA
+NDA
+SOW
+64 (Lund Food Holding): 
+Business Associates Agreement
+Certificate of Insurance
+Cyber Agreement
+Leases
+MSA
+Mutual Hold Harmless
+Non Disclosure Agreement
+Standard Vendor Agreement
+65 (Ports America Shared Services): 
+Articles of Incorporation / Bylaws
+Asset/Stock Purchase Agreement
+Board Resolutions
+Bonds
+Certificates of Insurance
+Collective Bargaining Agreement
+Concession Agreement / Lease
+Construction / Demolition / Engineering
+Consulting Agreement
+Customer Contracts
+Environmental
+Equipment Lease Agreement
+Finance and Treasury
+HR Documents
+Indemnity / Hold Harmless Agreement
+IT Archive
+Legal Archive
+Letter of Intent / MOU
+Multi-Employer Association
+NDA / NDA Joinders / NRL
+Patent / Trademark
+Permits / Licenses
+Power of Attorney
+Purchase / Supply Agreement / Bill of Sale
+Rate Sheet
+Requests for Proposal
+Research Memo
+Settlement Agreement
+Shared Service / Intercompany Agreement
+Statement of Work
+Tariff
+Technology Services Agreements
+Terminal Service Agreement
+Vendor Service Agreement
+WCC Commercial Archive
+66 (Innodata Inc.): 
+Addendum
+Agreement Order
+Amendment
+APR
+Audit Close Letter
+Business Associate Agreement
+Confidentiality Agreement
+Customer Contract
+Data Order
+Data Processing Agreement
+DocGenix
+Evaluation Agreement
+Extension
+HR MOA
+India Distribution
+Insurance
+Japan Distribution
+Japan eBook Distribution
+Lease-Rental
+MNDA
+MSA
+Multi-Year Renewal Order Form
+NDA
+Notice of Assignment
+Order
+Partner Agreement
+Project Change Request
+Retainer Agreement
+Service Level Agreement
+SOW
+Sponsorship & Exhibition Agreement
+Standard Purchase Order/PO
+Sub-contract Agreement
+Sub-Contractor
+Supplement
+Synodex
+Task Order
+Teaming Agreement
+Termination Letter
+Variation Letter
+Vendor Contract
+Volume Discount Plan
+Work Order
+Work Package Agreement
+67 (Medallion Operating Company LLC): 
+Agreement of Marketer
+Agreement of Shipment
+Asset Sale
+CA/NDA
+Carrier Agreement
+Condensate Agreements
+Confirmation of Marketing Purchase
+Connection & Storage Agreement
+Construction Commitment & Operations & Maintenance Agreement
+Corporation Documents
+Correspondence
+Dedication and Connection Agreement
+Dedication and Transportation Agreement
+Facilities, Sales or Lease Agreement
+Gas Purchase Agreement
+Interconnection Agreements
+Joint Tariff Agreement
+Litigation
+Master Service Agreement
+Miscellaneous Agreements
+MOR and Addition to DCA/OSA
+NGL- Condensate Sales Agreements
+Oil Movement Service Agreement
+Operations, Construction or Services Agreement
+Precedent Agreement
+Regulatory Docs & Filings
+Terminal Services Agreement
+Transportation Services Agreement
+Truck Unloading/Loading & Facilities License Agreement
+68 (Acushnet Company): 
+Distribution Agreement
+Distribution Agreement (Intercompany)
+Lease
+License Agreement
+License Agreement (Intercompany)
+MSA/Consultant
+NDA/MNDA
+Purchasing/Supply Agreement
+69 (Loews Hotels at Universal Orlando): 
+Bank Account Information
+Concession Agreement
+Construction Agreements
+Construction Change Order
+Entity Structure
+Equipment Lease
+License/Permit
+Master Service Agreement
+Non-Contracted Certificate of Insurance
+Service Agreement
+Tenant Lease
+70 (Universal Ensco, Inc.): 
+Lease
+License
+Prime Contract
+Subcontracts
+71 (BroadbandTV Corp): 
+Default
+MNDA
+MSA
+NDA
+Platform agreement
+Professional services agreement
+SOW
+Vendor agreement
+72 (Inflection Energy, LLC): 
+Confidentiality Agreement
+Consulting Agreement
+Default
+Gas Transaction Confirmation
+IT Agreements
+Legal Request
+Master Service Agreement
+MNDA
+NDA
+Office Administration
+73 (Institute of Electrical & Electronics Eng): 
+Adoption Agreement
+Business Agreement
+Commercial Distribution
+Joint Standards Development
+Letter of Intent
+Membership
+Memorandum of Understanding
+NDA
+Other
+Other License Agreement
+Permission Letter
+Reseller Licenses
+Sales Agreement
+Sales Contract
+Service Agreement
+Translation License
+Vendor Contract
+74 (Catalent Indiana, LLC): 
+Client
+Construction
+Consulting
+Environmental Permit
+Food and Drug Administration
+Government
+Human Resources
+Maintenance
+Other
+Partner/Collaboration
+Project Management
+Quality Assurance
+Real Estate
+Software
+Supplier
+Supplier- Common
+Supplier- Equipment and Services
+Supplier- Material
+Supplier-Laboratory Services
+Training
+76 (Seattle Art Museum): 
+Access and Release Agr.
+Appearance/Image Release Form
+Art Acquisition Agr./Seller's Warranty
+Artist Commission for Acquisition
+Artist Commission Installation Agr. (OSP)
+Artist Commission Installation Agr. (SAM/SAAM)
+Borrower's Agreement (Outgoing Loan)
+Collaboration/Partnership Agr.
+Commercial Fundraiser Agr.
+Consignment Agr. (Deaccession)
+Co-Organization Agr.
+Deed of Gift
+Exhibition Agr.
+Filming and Photography Agr.
+Grant Agr.
+Group Admissions and Venue Experiences Agr.
+Image Use - Educational Use
+Image Use - Non-Publication
+Image Use - Publication
+Incoming Loan Agr.
+Independent Contractor Agr.- Art Handler
+Independent Contractor Agr.- Catalogue Author
+Independent Contractor Agr.- Conservation
+Independent Contractor Agr.- General
+Independent Contractor Agr.- Guest Curator
+Independent Contractor Agr.- Performer/Speaker
+Independent Contractor Agr.- Photographer/Videographer
+Independent Contractor Agr.- Sculpture Maintenance
+Independent Contractor Agr.- Teaching Artist
+Independent Contractor Agr.- Translator
+Lease/Property Agr.
+License Agr.
+Music License
+Other/Misc. Agr.
+Participating Venue Agr.
+Pledge Agr. (Art)
+Pledge Agr. (Other)
+Private Sales Agr. (Deaccession)
+Publishing Agr.
+Rights and Reproductions Agr.
+SAM Gallery Consignment Agr.
+SAM Gallery Rental Agr.
+Sponsorship Agr.
+Vendor/Service Provider Agr.
+77 (North American Risk Services, Inc.): 
+Addendum/Amendment
+Certificate of Insurance
+Claims Service Agreement (CSA)
+Data Authorization
+Deductible Reimbursement Agreement
+Lease Agreement - Equipment
+Lease Agreement - Prop
+Master Service Agreement (MSA)
+NARS Insurance Documents
+Non Disclosure Agreement (NDA)
+Purchase Agreement
+Security Practices Policy
+Statement Of Work (SOW)
+Subscription Agreement
+Vendor Scoring
+W-9
+79 (Buck Global, LLC): 
+Addendum
+Agency Agreement
+Amendment
+Change Order
+Click (Website) Agreement
+MLA
+MNDA
+MSA
+NDA
+Participant Agreement
+PSA
+SaaS Agreement
+Sales Agreement
+Sales Order Form
+Services Agreement
+SOW
+Sub Contractor Agreement
+Work Order
+81 (Foundation to Support Animal Protection): 
+Addendum
+Advertising
+Certification Mark License Agreement
+Confidentiality Agreement
+Consultancy Agreement
+Data Processing Agreement
+Employment Contract
+Equipment Lease
+Fundraising Agreements
+Investigator Agreement
+IT Services Agreement
+Lease Agreement
+License Agreement
+License and Donation Agreement
+Listing Agreement
+Maintenance Agreement
+Memorandum Of Understanding
+Merchandise Agreement
+Personal Service Agreement
+Power of Attorney
+Purchase Agreement
+Release Agreement
+Retainer Agreement
+Sales Agreement
+Services Agreement
+Software License/Development/Maintenance
+Sponsorship Agreement
+Sublease Agreement
+Venue Agreement
+Veterinary Services Agreement
+Veterinary Tech Services Agreement
+82 (Columbia Memorial Hospital): 
+Affiliation
+BAA/MNDA
+Consulting
+Contract Labor
+Goods/Service Agreement - Clinical
+Goods/Service Agreement - Materials Management
+Goods/Service Agreement - Non Clinical
+Grants
+Group Purchasing
+Insurance Contracts
+Insurance Payor Contracts
+Lease/Rental
+Legal Documents
+Notice/Notification
+OHSU Service Line Agreement
+Provider Agreements
+Union
+83 (Reputation.com): 
+Confidentiality & HIPAA
+Consents/Releases
+IP Agreements
+Partnership
+Real Estate
+Sales Consumer
+Sales Enterprise 
+Sales Others
+Sales Small Business
+Vendors
+84 (Metagenics): 
+Addendum
+Advertisement Agreement
+Amendment
+Annual Volume Incentive Ag
+Assignment and Confidentiality
+Business Associate Agreement
+Cardiometabolic Advisory Board
+CDA
+Clinical Trial Agreement
+Co-Branding Ag
+Coexistence Agreement
+Collaboration
+Co-Marketing Agreement
+Commercial Support
+Commission
+Confidentiality and Noncompete
+Consent
+Consignment Agreement
+Consulting
+Consulting and Speaker Ag
+Contribution Agreement
+Copyright Authorization
+Custom Formulation Agreement
+Customer Council Agreement
+Distribution
+EACA
+Employee Confidentiality Agree
+Employment
+Employment Agreement
+Engagement Letter
+Equipment Lease
+eStore
+Grant
+Grant Agreement
+Guaranty
+Hold Harmless
+Hotel Agreement
+Indemnification Agreement
+Informed Consent
+International Distribution Agr
+Joint Venture Agreement
+Lease
+Letter Agreement
+Letter of Termination
+License
+License and Service Agreement
+License and Supply Agreement
+Loan Agreement
+LOI
+Manufacturing Agreement
+Marketing Agreement
+Marketing Development Fund Pro
+Marketing Rebate Program
+Master Services Agreement
+Materials Transfer Agreement
+Medical Advisory Board Letter
+Memorandum of Understanding
+MNDA
+MSA
+Mutual Confidentiality Agr
+NDA
+Offer Letter
+Operating Agreement
+Order Form
+Other
+Personal Service Agreement
+Pricing Agreement
+Private Label Agreement
+Product Development Agreement
+Promissory Note
+Proposal
+Publication & Broadcasting Rel
+Purchase
+Purchase Assignment and Royalt
+Release
+Research Agreement
+Retainer Agreement
+Royalty Agreement
+SaaS Licensing Agreement
+Sales Agreement
+Sales, Marketing and Distribut
+Security Agreement
+Separation Agreement
+Service Agreement
+Services
+Settlement Agreement
+Severance Agreement
+Severance and Release
+SOW
+Speaker Agreement
+Sponsorship Agreement
+SPRINT Interview Letter
+Statement of Work
+Stock Option Agreement
+Stock Purchase Agreement
+Stockholders' Agreement
+Subordination Agreement
+Subscription Agr
+Supply Agreement
+Supply and License Agreement
+Taste Testing Documents
+Term Sheet
+Terms and Conditions
+Trademark License
+Vendor Agreement
+Waiver and Consent
+Women's Health Advisory Board
+85 (Molpus Woodlands Group, LLC): 
+Acquisition
+Amendment
+Carbon Development Services Agreement
+Carbon Sales Agreement
+Client Relations - Confidentiality Agreement
+Client Relations - Scholarship Release Form
+Confidentiality Agreement
+Consulting Agreement
+Cut and Haul Agreement
+Default
+Delivered Wood/Log Purchase Agreement
+Field Evaluation
+Information Technology (Software) Contract
+Insurance Certificate
+Land Sale
+Lease Agreement
+Listing Agreement
+Litigation
+MNDA
+MSA
+NDA
+Notice of Timber Loss
+Option - Land Sale
+Permits, MOUs, 480a Application
+Professional Services Agreement
+Project Order
+Property Tax
+Real Estate Licensing
+Release of Timber Sale Contract
+Revision to Project Order
+Right of Entry
+SOW
+Supplement to Cut and  Haul
+Temporary Easement
+Termination of Supplement to Cut and Haul
+Timber Sale Contract
+86 (Financial Accounting Foundation): 
+Administration Contracts
+Executive Director Contracts
+FAF
+FASB
+FASB Contracts
+FASB/GASB
+Finance and Accounting Contracts
+GASB
+GASB Contracts
+Human Resources Contracts
+IT Contracts
+Legal Contracts
+Public Affairs Contracts
+Publishing Contracts
+XBRL Contracts
+87 (Park Place Motorcars, LTD): 
+Addendum
+Administration Agreement
+Advertising Agreement
+Affilliate Agreement
+Amendment
+COI
+Confidentiality Agreement 
+Dealer Application
+Disclosure Agreement
+DSA
+Financial Loan Agreement
+Internal Policy/Procedure
+Lending Agreement
+Letter of Engagement
+License Agreement
+Merchant Agreement
+MSA
+NDA
+Order Form
+PP Land Lease Agreement
+Promotional Agreement
+Proposal
+Rental Agreement
+Sales Agreement
+Schedule
+Service Agreement
+Statement of Work
+Subscription Agreement
+Supporting Documents
+TEST-new (Cole)
+VRD
+Warranty Agreement
+88 (Central Ohio Primary Care Physicians, Inc.): 
+Affiliation Agreement
+agilon health Transaction
+agilon health Unit Redemption
+Board Minutes
+Building Blocks Pediatrics
+Business Associate Agreement
+Care Compact
+CBO
+Certificate of Insurance
+Clinical Site Agreement
+Collaboration Agreement
+Columbus Endocrinology
+Columbus Internal Medicine
+Confidentiality/NDA
+Consulting Agreement
+COPC
+COPC Laboratory Services
+COPC Radiology Services
+COPC Westerville
+COPCP, Inc.
+CPC+
+Default
+Direct Contracting
+EMG&Rehab Assoc. 4300 Clime Rd
+Employment
+Executive Committee Minutes
+Fairway Family Physicians
+Faith Family Health
+Family Med & Peds at Winch. Sq
+Hospital/Service Agree
+Immigration
+Independent Contractor Agreement
+Leased Employee Services Agree
+Master Services Agreement
+Memo of Understanding
+Northwest Family Physicians
+Ohio Center for Pediatrics
+Other
+Outside Employment
+Payor Contracts
+Pediatric & Adolescent Pract.
+Pediatric Support Center
+Personal Auto Declarations
+Practice Acquisition
+Private Placement Offering
+Professional Ped. of Hilliard
+Professional Services Agreement
+Purchase of Prof. Services Ag
+Real Estate
+REMINDER
+Research Study Agreements
+Service Contract
+State Medical Board
+Statement of Work
+Step by Step Pediatrics
+Stonegate Family Health
+Suburban Internal Medicine
+Trade Name
+Trademark
+Tuition Reimbursement Agrees
+Vendor Contract
+Westerville Family Physicians
+Westerville Internal Medicine
+Work Study Program
+Workers' Compensation
+89 (CCBCC Operations, LLC): 
+Beverage Agreement
+Customer Marketing Agreement
+Default
+FSOP CMA
+MNDA
+MSA
+NDA
+RCT Sample Form
+SOW
+Waiver and Release
+90 (BTG International Inc. (Pharma)): 
+Amendment
+Assignment
+BTG International Inc.
+CDA
+Clinical
+Clinical Trial Agreement
+COE/AUM/Training
+Commercial Interest Sponsor
+Confidential
+Consulting Agreement
+Corporate
+Customer
+Deed
+Development
+Distribution Agreement
+Educational Grant
+Facility Lease
+HCP Agreement
+Healthcare Provider
+HR
+ICA
+Indemnification
+Independent Contractor Agreement
+Lease
+License
+Manufacturing
+Material Transfer Agreement
+Misc Agreement
+MSA
+MTA
+Option Agreement
+Payment Agreement
+Proposal
+Proposal/Quotation
+Purchase Agreement
+Services
+SOW
+Subscription
+Supply
+Technical Agreement
+Termination
+Terms and Conditions
+Training
+Work Order
+91 (Regional West Health Services): 
+Administrative Service Agreement
+Advertising Agreement
+Affiliation Agreement
+Amendment (Non-Provider Agreements)
+Amendment (Provider Agreement)
+Business Associate Agreement
+Default
+Executive Employment Agreement
+Lease Agreement
+Letter of Intent
+Master Services Agreement
+Medical Director Agreement
+Misc. Agreements
+Misc. Provider Agreement
+Non-Disclosure/Confidentiality Agreement
+Offer Letter
+Participation Agreement
+Pro Forma
+Professional Employment Agreement
+Professional Services Agreement
+Quote/Proposal/Estimate
+Service Agreement
+Settlement Agreement
+Statement of Work
+92 (A&H Group): 
+Additional Compensation Agreement
+Administrative Services Agreement
+Agent Agreement
+Assignment Agreement
+Broker Services Agreement
+Business Associate Agreement
+Carrier Agreement
+CFIA Producer Agreement (Occ Acc)
+Client Agreement
+Confidentiality Agreement
+Consulting Agreement
+Contract Template
+Cover Note
+Distributor Agreement
+Endorsement
+Experience Refund Credit
+General Agency Agreement
+General Agent Contract
+Independent Contractor Agreement
+Insertion Order
+IT Agreement
+Lease Agreement
+Letter of Authority
+Letter of Consent
+Letter of Intent
+Letter of Understanding
+License Agreement
+Maintenance Agreement
+Managing General Agency Agreement
+Managing General Underwriting Agreement
+Marketing and Administrative Services Agreement
+Master License Agreement
+Master Reinsurance Agreement
+Master Service Agreement
+Merchandising Agreement
+Network Service Agreement
+Order Form
+Other
+Participation Agreement
+Payer Access Agreement
+Pharmacy Benefit Agreement
+Pilot Program
+Producer Agreement
+Producer Company Agreement
+Producer Override Agreement
+Producer Services Agreement
+Professional Services Agreement
+Program Management Services Agreement
+Program Manager Agreement
+Proposal
+Purchase Agreement
+Reinsurance Agreement
+Reinsurance Agreement - Excess
+Reinsurance Agreement - Quota Share
+Reinsurance Agreement - Retrocessional
+Reinsurance Agreement-Falcultative Quota Share Reinsurance Placement Slip
+Reinsurance Placing Slip
+Reinsurance Trust Agreement
+Relocation Agreement
+Rental Agreement
+Request For Consent
+Schedule
+Service Agreement
+Sponsorship Agreement
+Statement of Work
+Subscription Agreement
+Termination Addendum
+Termination Letter
+Terms and Conditions
+Terms of Business Agreement
+Third Party Administrator Agreement
+Tripartite Services Agreement
+Trust Agreement
+Vendor Agreement
+93 (Mycovia Pharmaceuticals): 
+CDA
+Consultant Agreement
+CTA
+Default
+Employment Agreement
+Lease
+License
+LOA/Start-Up Agreement
+LOI
+Material Transfer
+MSA
+NDA
+Option
+Other
+Quality Agreement
+Service Agreement - SA
+SOW
+94 (BW Gas & Convenience Holdings, LLC): 
+Default
+JEN TEST Lease
+JEN TEST VENDOR
+Lease: Liquor License
+Lease: Office
+Lease: Storage/Warehouse
+Lease: Store/Ground
+Lease: Tenant
+Legal Proceedings
+Licensing & Permitting
+MNDA
+MSA
+NDA
+Side Letter
+SOW
+Trademark
+Vendor Agreement
+Violations & Inspection
+95 (CSM - Graham): 
+Default
+MNDA
+MSA
+NDA
+Non-Compete Agreement
+SOW
+96 (CSM - Elise): 
+Default
+Example Email Insertion Order
+MNDA
+MSA
+NDA
+Nurse Practitioner Employment Agreement - Test
+Provider License Agreement
+SOW
+Test NARS
+Test Type - Multiple Custom Objects
+97 (CSM - Jonathan): 
+Default
+MNDA
+MSA
+NDA
+SOW
+98 (CSM - Gil): 
+Hospital
+Indemnification
+MSA
+Mutual Non-Disclosure Agreement
+NDA
+Operating Agreement
+Other
+Pharmacy
+SLA
+SOW
+99 (CSM - Sam): 
+Base Agreement
+ClewarwayNDAClone
+Default
+Employment Agreement
+Enrollment Agreement
+Enterprise Agreement
+Master Service Agreement
+MNDA
+NDA
+Pricing Agreement
+SOW
+100 (Mid Atlantic Retina): 
+CDA / NDA / MNDA
+Clinical Education Agreements
+Collections
+CRA / CTA / CSA
+Device Loaner Agreements
+Entities
+Fellowship Agreements
+General Office Info
+Insurance Policies
+Insurance Provider / Payor / MCO
+Lease Agreements
+Legal Services Agreements
+Litigation Matters
+Other
+Physician Agreements
+Templates
+TEST CONTRACT
+Trademark Matters
+Vendor Agreements
+101 (Ocean Insight): 
+CDC Agreement
+Consulting and Services Agreement
+Distributor Agreement
+Lease Agreements (Real Estate)
+NDA - Non-Standard
+NDA - Standard
+NDA - Trilateral
+NDA - Unilateral
+OEM/Solutions Agreement
+Proposal/SOW (Project)
+Vendor Contract
+102 (Tawani Enterprises, Inc.): 
+AIA agreement
+Author Agreement
+Business Licenses
+Charitable Gift/Grant Agreement
+Contract
+Corporate Records
+Image License Agreement
+Independent Contractor Agreement
+Insurance Request
+Lease Agreement/Amendment
+Legal Research
+Letter of Intent - LOI
+Management Agreement - TPM
+Master Services Agreement
+Mutual Non-Disclosure Agreement
+Non-Disclosure Agreement
+Operating Agreement
+Permits
+Purchase Agreement
+Resolution
+Rider
+Service Agreement - TEI
+Statement Of Work
+103 (Bulletin Intelligence LLC): 
+Advertising Partner
+Content License
+Customized Subscription
+Miscellaneous Contract
+NDA
+Office Lease
+Vendor Contract
+104 (Crum & Forster): 
+Actuarial
+Bail
+Bail Bonds
+Bonds Performance/Surety
+Brownyard
+Business Development
+Claims
+Commercial Lines*
+Corporate*
+Corporate/Legal*
+Crisis Management
+Cross-Divisional*
+Default
+Digital Partners*
+DMC*
+Facilities
+Finance
+Financial Operations
+Human Resources – Confidential*
+Human Resources*
+Internal Audit
+IT
+IT Contractor SOW
+Marketing
+Operations - Field
+Operations - Home Office
+Partnerships and Programs
+Procurement
+Product Management
+Redwoods*
+Reinsurance
+Research & Strategy
+Risk Engineering
+Risk Management
+S & SL
+Seneca*
+Standard Template
+Surety & Programs*
+Surplus & Specialty*
+Underwriting
+105 (A.M. Best Company, Inc.): 
+ADJUST
+Advertising Design Services Agreement
+Agent Center Agreement
+ATTY
+AUD
+BCAR Agreement
+BSRF Agreement
+DIGEST
+Email Insertion Order
+EXSERV
+Gov Prod Svc
+IT Services
+LCO
+Library Center Agreement
+Licensing Agreement for AM Best TV
+Limited License Agreement
+Master License Agreement
+NDA
+Online Insertion Order
+Print Insertion Order
+Sales Agreement
+Third Party Agreement
+TPA
+Vendor Agreement
+Webinar Agreement
+106 (Graduate Management Admission Council): 
+Advertising
+Events
+Facilities
+GMAT (PVUE/ACT)
+Goods/Equipment/Supplies
+Hotel
+Licensing/Consents
+NDA/Confidentiality
+Online Services
+Other
+Professional Services
+Publishing
+Real Estate Lease
+Recruiting
+Software
+Speaker
+Sponsorship
+Strategic Alliance
+107 (Bucks County Intermediary Unit): 
+Administration
+Association
+Business Operations
+Consultant
+Contractor
+Data Security Letter Agreement
+Early Childhood Provider
+ESY Provider
+Facilities
+Finance
+Head Start/Early Head Start Provider
+Homeless Children's Initiative
+Human Resources
+IDEA - Use of Funds
+Internship
+Lease
+Legal Retainer
+Maintenance
+Non-Public
+Pre-K Counts Provider
+Presenter
+Professional Development
+Programs and Services
+Safety and Security
+School Age Provider
+Settlement
+Software
+Special Education Services
+Statement of Work (SOW)
+Strategic Services
+Technology
+Third Party Staffing
+Title I
+Title II
+Transportation
+108 (Sunesis Pharmaceuticals, Inc.): 
+CDA
+Clinical Trial
+Consulting
+Default
+General/Miscellaneous
+MNDA
+MSA
+NDA
+Service
+SOW
+Test Contracts
+109 (KabaFusion): 
+Clean Room Inspections
+DEA Licenses
+Distribution Agreement
+Dockets
+GPO Agreement
+Inspections
+Letter of Agreement
+License
+Managed Care Dockets
+Medicare/Medicaid
+MSA
+NDA
+Payor Contract
+PDMP Waiver
+PIC Information
+Plasma Supplier Agreement
+Plasma Supplier Agreement 2
+Specialty Supplier Agreement
+Statement of Work
+Supplier Agreement
+Surety Bond
+110 (The IMA Group): 
+Business Associate Agreement - BAA
+Clinical Research - Amendment
+Clinical Research - CDA
+Clinical Research - CTA
+Clinical Research - Other
+Corporate - Non Provider Independent Contractor Agreements
+Corporate Leases
+Government Services - Modification
+Government Services - MSA
+Government Services - NDA
+Government Services - Renewal/Extension
+Government Services - SOW
+Government Services - VA MOU
+Government Services Amendment
+Payer Services
+Payer Services NDA
+111 (Community Mental Health of Ottawa County): 
+Amendment
+COFR
+Default
+Extension
+Inpatient Contracts
+Interdepartmental Agreement
+MOU
+Single Service
+Standard Service Contract
+Training Agreements
+Vendor Issued/Grants
+112 (U.S. Medical Management, LLC): 
+BAA
+Default
+Dummy Contract
+Durable Medical Equipment Provider Agreement
+Hospice Contracted Physician Agreement
+Hospice Medical Director Agreement
+Letter of Agreement
+MSA
+NDA
+Payor Agreement
+Practitioner Employment Agreement
+Sale of Goods Agreement
+SOW
+Subcontract Agreement
+Terms of Service
+113 (Lake Havasu City): 
+ACCESS
+ADOPT
+AUCTION
+CAPITAL OUTLAY
+CONSTRUCTION
+COOP
+DATA
+DEVELOPMENT
+EASEMENT
+FRANCHISE
+FUNDING AGREEMENT
+GRANT
+IGA
+IMPROVEMENTS
+INSURANCE ONLY
+IT
+LAND-USE
+LEASE
+LICENSE AGREEMENT
+LOAN
+MASTER
+MOU
+OTHER
+PROCUREMENT
+PROFESSIONAL SERVICE
+ROW/ROE
+SERVICES
+SPECIAL EVENT
+STORMWATER
+USE
+UTILITY
+114 (University of Texas at Arlington): 
+Affiliation
+MOU
+Other
+Service Agreement
+115 (Prospero Management Services, LLC): 
+ACO Agreement
+BAA
+Consulting / Contractor Agreement
+Default
+Employment Contract - RESTRICTED ACCESS
+Lease
+Letter of Agreement (LOA)
+License Agreement
+MOU / LOI
+MSA
+NDA / Confidentiality Agreement - RESTRICTED ACCESS
+Other
+Participation Agreement
+PSA
+Purchase Order
+Separation Agreement - RESTRICTED ACCESS
+Settlement Agreement
+SOW
+116 (HomeAdvisor, Inc.): 
+Form Agreement
+General
+Historical
+Historical - Current Fields
+HR
+Leases
+NDA
+117 (Avondale Dealerships (Park Place Motorcars Mid-Cities, Ltd)): 
+Addendum
+Administration Agreement
+Advertising Agreement
+Affilliate Agreement
+Amendment
+COI
+Confidentiality Agreement 
+Dealer Application
+Disclosure Agreement
+DSA
+Financial Loan Agreement
+Internal Policy/Procedure
+Lending Agreement
+Letter of Engagement
+License Agreement
+Merchant Agreement
+MSA
+NDA
+Order Form
+PP Land Lease Agreement
+Promotional Agreement
+Proposal
+Rental Agreement
+Sales Agreement
+Schedule
+Service Agreement
+Statement of Work
+Subscription Agreement
+VRD
+Warranty Agreement
+118 (Organogenesis Inc.): 
+Clinical Experience Program Agreement
+Clinical Trial Agreement
+Confidentiality Agreement: One Way (OG Disclosing More Info)
+Consignment
+Corporate Fillings
+Direct Purchase Agreement
+Distributor Agreement
+Forms
+General Legal Advice
+Government
+GPO
+Grant
+Lease/Rental
+Letter of Agreement (LOA)
+License Agreement
+Loan of Equipment
+Market Share Agreement
+Master Consulting Agreement - SOW
+Master Consulting Agreement (MCA)
+Master Services Agreement
+Master Services Agreement - Statement of Work
+Material Transfer Agreement
+MSA - HR Staffing Agreement
+MSA - HR Staffing Agreemetn - SOW
+Mutual Confidentiality Agreement
+Non-Compete Review
+Notice
+Product Experience Program (PEP)
+Quality Agreement
+Quote - Proposal
+Request For Proposal
+Supply Agreement
+Templates
+Termination Letter
+Tissue Acquisition
+119 (Northbridge Financial Corporation): 
+Change Order
+Default
+Event Agreement
+Hardware/Equipment Agreement
+MSA
+NDA
+Purchase Agreement (v. 1)
+Services Agreement
+Software Agreement
+Statement of Work
+120 (Clearway Energy Group, LLC): 
+Asset Management Agreement
+Asset Retirement Obligation (ARO) / Decommissioning Agreement
+Assignment Agreement
+Assignment and Assumption Agreement
+Balance of Plant (BOP) Agreement
+Bill of Sale/Transfer of Ownership
+Biologist Requirements
+Build-Out Agreement
+Bylaws
+Cash Equity Agreement
+Claim Settlement Agreement
+Community Donation Requirements
+Community Education Requirements
+Community Solar Subscription Agreement
+Conditional Use Permit
+Confidentiality Agreement or Non-Disclosure Agreement (NDA)
+Construction Management Agreement
+Consulting Services Agreement
+Contribution Agreement
+Co-Tenancy Agreement or Shared Facility Agreement
+Debt Instrument
+Distribution Agreement
+Easement Agreement
+Encroachment Agreement
+Engineering, Procurement, and Construction (EPC) Agreement
+Engineering, Procurement, and Construction (EPC) Warranty
+Environmental Permits/Requirements
+Equity Capital Contribution Agreement (ECCA)
+Facility Agreement
+Generic Financing Instrument
+Generic Lease Agreement
+Generic Permit/Requirements
+Generic Purchase/Sales Agreement
+Generic Revenue Agreement
+Generic Services Agreement
+Generic Warranty
+Hedge Agreement
+Indemnity Agreement
+Initial Trade
+Insurance Certificate or Certificate of Insurance (COI)
+Insurance Policy
+Interconnection Agreement
+International Swaps and Derivatives (ISDA) Agreement
+Inverter Services Agreement
+Inverter Supply Agreement
+Inverter Warranty
+IT Services Agreement
+IT Subscription Agreement
+IT System Agreement
+Joint Defense Agreement
+Land Lease Agreement
+Land Use Permit
+Letter of Intent (LOI)
+License Agreement or End User License Agreement (EULA)
+LLC Agreement
+Major Equipment Warranty
+Master Services Agreement (MSA)
+Membership Interest Purchase Agreement (MIPA)
+Membership Interest Purchase Share Agreement (MIPSA)
+Meter/Device Reading Agreement
+Mitigation Lands Requirements
+Module Services Agreement
+Module Supply Agreement
+Module Warranty
+O&M Agreement
+Other
+Participation Agreement
+Power Purchase Agreement (PPA)
+Power Purchase and Sales Agreement
+Protected Species Permit
+Purchase Agreement
+Purchase and Sale Agreement (PSA)
+Qualified Scheduling Entity (QSE) Agreement
+Renewable Energy Credit (REC) Agreement
+Service Agreement
+Shared Facility Agreement
+Site Tour Requirements
+Software License Agreement
+Solar Power Purchase Agreement
+Special
+Special Use Permit
+Staffing Agreement
+Statement of Work (SOW)
+Stormwater Pollution Prevention Plan (SWPP) and Close-out
+Subordination, Non-disturbance and Attornment Agreement
+Subscription Agreement
+Supply Agreement
+Tax Abatement Filings
+Tax Equity Agreement
+Term Sheet
+Title Insurance Policy
+Turbine Services Agreement
+Turbine Supply Agreement
+Turbine Warranty
+Vegetation Management Agreement
+Virtual Power Purchase Agreement (VPPA)
+Wetlands Permit
+Wetlands Requirements
+121 (Food for the Hungry): 
+Conference
+Consultant
+Festival
+Generic/One-Off (Advance)
+Generic/One-Off (Pay/Sponsor)
+Generic/One-Off(Pay/SponsorFF)
+Indie Artist (Pay/Sponsor)
+Special Event
+TEST for Tour (Advance)
+Tour (Advance FF)
+Tour (Advance)
+Tour (Pay/Sponsor)
+Tour Rep
+Vendor
+122 (Diamond Hill Capital Management, Inc.): 
+BHIL - Intermed - AIT Canyon
+BHIL - Intermed - AIT IFP
+BHIL - Intermed - AIT JOHCM
+BHIL - Intermed - AIT Vontobel
+BHIL - Intermed - Boston Trust
+BHIL - Intermed - Cook&Bynum
+BHIL - Intermed - DHCM
+DHCM - Fund Administration
+DHCM - Institutional
+DHCM - Vendor
+DHCM - Vendor - Bus. Dev.
+DHCM - Vendor - Corporate
+DHCM - Vendor - ETF
+DHCM - Vendor - Investments
+DHCM - Vendor - IT
+DHCM - Vendor - Mutual Funds
+DHCM - Vendor - Operations
+DHCM - Vendor - Private Funds
+DHCM Intermediary
+Foreside - Intermed - DHCM
+123 (Catalina Marketing Corp): 
+BuyerVision Insertion Orders
+Manufacturer Master Agreement
+Manufacturer Master Program Summary
+Non-Disclosure Agreement
+Procurement Agreement
+RAF
+RAS
+Retailer MSA
+124 (Evofem Biosciences, Inc.): 
+Amendment
+Consulting Agreement (HCP for Impact Communications)
+Consulting Agreement (HCP)
+Consulting Agreement (Non-HCP)
+Default
+Manufacturing and Supply Agreement
+Master Service Agreement (Non-HCP)
+Master Supply Agreement
+Material Transfer Agreement
+Mutual NDA
+One-Way NDA
+Renewal
+SOW
+125 (Contract Logix ADFS SSO Testing): 
+Default
+MNDA
+MSA
+NDA
+SOW
+126 (Boston Properties Limited Partnership): 
+Construction Contract - BOS
+Construction Contract - DC
+Construction Contract - SF
+Property Management Contract
+SOW
+Troubleshooting Type
+127 (Saga Communications, Inc.): 
+Affiliate Agreement
+Employee Contract
+FCC
+Interactive/Operating
+Other
+Programming
+Real Estate Leased
+Real Estate Owned
+Tower Space Leased
+128 (Contract Logix Okta Test): 
+Default
+MNDA
+MSA
+NDA
+SOW
+129 (Ligand Pharmaceuticals Inc.): 
+Addendum
+Advertising
+Advisory Board
+Amendment
+Asset Purchase Agreement
+Assignment
+Bill of Sale
+Breeder
+Captisol In Vivo
+Captisol Use Agreement
+CDA / NDA
+Change Order
+Clinical Research Agreement
+Clinical Services Agreement
+Clinical Supply Agreement
+Clinical Trial Agreement
+Collaboration Agreement
+Consent
+Data Access Agreement
+Development Agreement
+Distribution / Storage
+Engagement
+Escrow
+Evaluation
+Event Agreement
+Exclusivity
+External Release
+Fee Agreement
+File Wrapper
+Form 8-K
+Hotel Services
+In Vivo Pre-Clinical Study Agreement
+In Vivo Use Agreement
+Indemnification
+IT / IS Services
+Lease Agreement
+Letter
+License
+Loan Agreement
+Manufacturing Agreement
+Master Services Agreement
+Material Transfer
+Merger Agreement
+Misc.
+Notice
+Novation
+Order Agreement
+Payment Agreement
+Professional and Consulting Services
+Progress Report
+Promissory Note
+Proposal
+Purchase Agreement
+Quality Agreement
+Rebate Agreement
+Renewal
+Research
+Research and License
+Research and Manufacturing
+Research Use Agreement
+RUA
+Seminar Agreement
+Service Agreement
+Settlement
+Severance
+Software and License
+Statement of Work
+Stock Purchase
+Subscription
+Supply Agreement
+Task Order
+Termination
+Unknown
+Vernalis
+Waiver
+Warrant
+Work Order
+130 (T2 Biosystems, Inc.): 
+Consulting Agreement
+Default
+MNDA
+MSA
+NDA
+SAB Agreement
+SOW
+131 (Xperi Corporation): 
+Acquisition/IP Purchase
+BOD & Shareholder Actions - Other Affiliates
+Capital Purchase
+Customer Agreements
+Directors & Officers
+Formation
+Insurance Policies
+Intercompany Agreements
+Lease
+Licensee Correspondence
+NDA
+Other
+Outside Service Provider
+Restricted NDA
+SEC
+SF Customer Agreement
+132 (Maxeon Solar Technologies, Ltd.): 
+Authorized Dealer Agreement
+Confidentiality Agreement
+Consulting/Master Service Agreement
+Cost Recovery Agreement
+Credit Facility Agreements
+Default
+Employment/Stock Agreements
+Engagement Agreement
+Exclusivity
+Government Grant Agreements
+INDEMIFICATION AGREEMENT
+Intercompany Agreements
+IP Licensing
+IT contract
+Joint Venture/Alliance/Investments
+Lease Easement
+Leases
+Legal Confidential Files
+Litigation/Claims
+Master Service Agreement
+Master Supply Agreement
+Memorandum of Agreement
+Memorandum of Option
+Memorandum of Understanding
+Mergers/Acquisitions
+MNDA
+MSA
+NDA
+Non-Circumvention Agreement
+Non-Disclosure Agreement
+Other Category
+Purchasing/Manufacturing
+Real Estate Leases
+Release Liability
+Sales
+SC Level 3
+SETTLEMENT Agreement
+SOW
+SRC - Settlement and Release of Claims Agreement
+Statement of Work
+Sub Contracts
+Supply Chain Level 2
+Surplus Property Gift Agreement
+System Supply Chain
+Vendor Managed Inventory
+133 (SunPower Corporation): 
+Authorized Dealer Agreement
+Confidentiality Agreement
+Consulting/Master Service Agreement
+Cost Recovery Agreement
+Credit Facility Agreements
+Default
+Employment/Stock Agreements
+Engagement Agreement
+Exclusivity
+Government Grant Agreements
+INDEMIFICATION AGREEMENT
+Intercompany Agreements
+IP Licensing
+IT contract
+Joint Venture/Alliance/Investments
+Lease Easement
+Leases
+Legal Confidential Files
+Litigation/Claims
+Master Service Agreement
+Master Supply Agreement
+Memorandum of Agreement
+Memorandum of Option
+Memorandum of Understanding
+Mergers/Acquisitions
+MNDA
+MSA
+NDA
+Non-Circumvention Agreement
+Non-Disclosure Agreement
+Other Category
+Purchasing/Manufacturing
+Real Estate Leases
+Release Liability
+Sales
+SC Level 3
+SETTLEMENT Agreement
+SOW
+SRC - Settlement and Release of Claims Agreement
+Statement of Work
+Sub Contracts
+Supply Chain Level 2
+Surplus Property Gift Agreement
+System Supply Chain
+Vendor Managed Inventory
+134 (Palatin Technologies, Inc.): 
+3-Way Mutual Confidential Disclosure and Non-Use Agreement
+Agreement
+Agreement for Bloomberg Law
+Agreement for Investigator-Initiated Research Support
+Agreement for Services
+Agreement for Technology Assessment Support
+Agreement on POT
+Agreement on Terms and Conditions
+Airline/Rail Ticketing Agreement
+Analysis Plan
+Annual Copyright License Agreement
+Assignment Agreement
+Assignment of Site
+Authorized User Agreement
+Bilateral Nondisclosure Agreement
+Change in Scope
+Change Notification Form
+Change Order
+Change Order #1
+Clinical and Pharmaceutical Development Support
+Clinical Research Study Agreement
+Clinical Supply Services Agreement
+Clinical Trial Agreement
+Closing Letter
+Commercial Supply Agreement
+Confidential Disclosure Agreement
+Confidential Disclosure-In Agreement
+Confidential Information Disclosure Agreement
+Confidentiality Agreement
+Confidentiality and Nondisclosure Agreement
+Consent by Lenders
+Consultancy Agreement
+Consulting Agreement
+Consulting Services Agreement
+Corporate Sponsored Research Agreement
+DSMB Services Agreement
+Employment Agreement
+Engagement Letter
+Equity Distribution Agreement
+European Union Legal Representative Agreement
+Exclusive Option Agreement
+Feasibility Study Agreement
+General Consulting
+Healthcare Professional Speaker Agreement
+Hosted Software Rental Agreement
+Indemnification Agreement
+Institutional Review Board Indemnity Agreement
+Investigational Service Contract
+Investigator Agreement
+Investigator-Initiated Clinical Trial Research Agreement
+Laboratory Facilities Service Agreement
+Lease
+Letter Agreement
+Letter of Authorization
+Letter of Intent
+License Agreement
+License, Co-Development and Commercialization Agreement
+Manufacturing Agreement
+Manufacturing Preparating and Services Agreement
+Manufacturing Services Agreement
+Master Agreement
+Master Agreement for Services
+Master Clinical Development Agreement
+Master Clinical Research Services Agreement
+Master Consulting Agreement
+Master Contract
+Master Development and Manufacturing Agreement
+Master Laboratory Service Agreement
+Master Pre-Clinical Services Agreement
+Master Project Agreement
+Master Research Agreement
+Master Research Services Agreement
+Master Service Agreement
+Master Services Agreement for Early Phase Services
+Material Transfer Agreement
+Memorandum of Understanding
+Mutual Agreement of Confidentiality
+Mutual Confidential Disclosure Agreement
+Mutual Confidential Information Disclosure Agreement
+Mutual Confidentiality Agreement
+Mutual Confidentiality and Non-Disclosure Agreement
+Mutual Non-Disclosure Agreement
+Name Change
+Non-Disclosure Agreement
+Notice and Memorandum of Understanding
+Option to Negotiate an Exclusive License
+Other
+Palatin Standard
+Pharmacovigilance Agreement
+Preclinical Study Proposals
+Private Instrument of Confidentiality Agreement
+Program Term Sheet
+Project Agreement
+Project Proposal
+Project Term Sheet
+Proposal
+Proposal and Scope of Work
+Proxy Services
+Quality Agreement
+Quote
+RCIDA
+Reciprocal Nondisclosure Agreement
+Renewal Services Agreement
+Request for Proposal
+Research Agreement
+Research License Agreement
+Research Study Agreement
+Scientific Advisory Board and Consulting Agreement
+Secrecy Agreement
+Separation Agreement, Waiver and Release
+Service Agreement
+Short Term Stability Analysis
+Side Letter
+Software as a Service Agreement
+Software Proposal
+Sponsored Research Agreement
+Statement of Work
+Statement of Work #1
+Statement of Work #2
+Statement of Work #3
+Statement of Work #4
+Statement of Work #5
+Storage of Supplies
+Study Budget
+Subcontractor Agreement
+Subscription Agreement
+Supply Agreement
+Task Order
+Technical Transfer and Commercial Production
+Term Sheet
+Term Sheet for LOI
+Termination Agreement
+Terms and Conditions
+Total Assurance Plan
+Trademark Coexistence Agreement
+Transfer Agency and Registrar Services Agreement
+Web Site Development Programming and Services Agmt
+Website "Support Plan - Basic" Agreement
+WordPress Shared Web Hosting 6GB Local Storage
+Work Order
+Work Order # 1
+Work Order #1/Change Order #1
+Work Order #2
+Work Order #3
+Written Consent and Acknowledgement
+Written Consent to Assignment
+135 (UC Health, LLC): 
+Hospital
+Lindner
+Pharmacy
+Physician
+Transplant
+136 (StayInFront): 
+Global - Data Services
+HR - Civil Contract - PL
+HR - Employment Agreement - AUS
+HR - Employment Agreement - CAN
+HR - Employment Agreement - IRE
+HR - Employment Agreement - NZ
+HR - Employment Agreement - PL
+HR - Employment Agreement - RDI
+HR - Employment Agreement - SING
+HR - Employment Agreement - UK
+HR - Employment Agreement - US
+HR - Personal Service Consulting Agreement - AUS
+HR - Personal Service Consulting Agreement - CAN
+HR - Personal Service Consulting Agreement - IRE
+HR - Personal Service Consulting Agreement - NZ
+HR - Personal Service Consulting Agreement - PL
+HR - Personal Service Consulting Agreement - RDI
+HR - Personal Service Consulting Agreement - SING
+HR - Personal Service Consulting Agreement - UK
+HR - Personal Service Consulting Agreement - US
+RD - ADA 12 Month
+RD - ADA One-Time Use
+RD - AMA 12 Month
+RD - AMA Amendment to License Agreement
+RD - AMA One-Time Use
+RD - Amendment to License Agreement for Data Products and Related Services
+RD - Amendment to Master Database License Agreement
+RD - Amendment to Master Services Agreement
+RD - Annual License Agreement (Short Form)
+RD - Data Exchange License Agreement
+RD - Data Protection
+RD - Data Services
+RD - Foreign Third Party Support License Agreement
+RD - Foreign User Customer License Agreement
+RD - Healthcare, Facilities and Misc Services - US
+RD - IT Infrastructure Agreement - CAN
+RD - IT Infrastructure Agreement - US
+RD - License Agreement for Data Products and Related Services
+RD - Master Database License Agreement
+RD - Master Services Agreement
+RD - NDA - Customer
+RD - NDA - Internal
+RD - NDA - Mutual
+RD - Office Lease - CAN
+RD - Office Lease - US
+RD - Offshore Consent Addendum
+RD - One Time Data Analytics License Agreement
+RD - One Time Data Use License Agreement
+RD - Redi-Connect End User
+RD - Redi-Connect Reseller
+RD - SOW
+RD - Tax and Professional - CAN
+RD - Tax and Professional - US
+RD - Third Party Licensing - ADA
+RD - Third Party Licensing - AMA
+RD - Third Party Licensing - AOA
+RD - Third Party Licensing - Bridge
+RD - Third Party Licensing - CRD
+RD - Third Party Licensing - Health Dimensons
+RD - Third Party Licensing - MCH
+RD - Third Party Software - CAN
+RD - Third Party Software - US
+RD - Third Party Support User License Agreement
+RD - User-Customer License Agreement
+Redi-Connect Amendment to End User Agreement
+Redi-Connect Amendment to Reseller Agreement
+Redi-Mail - Amendment to Master Services Agreement
+Redi-Mail - SOW
+Redi-Mail Master Services Agreement
+SIF - Data Protection - AUS
+SIF - Data Protection - CAN
+SIF - Data Protection - IRE
+SIF - Data Protection - NZ
+SIF - Data Protection - PL
+SIF - Data Protection - RDI
+SIF - Data Protection - SING
+SIF - Data Protection - UK
+SIF - Data Protection - US
+SIF - Data Services
+SIF - Healthcare, Facilities and Misc Services - US
+SIF - IT Infrastructure Agreement - AUS
+SIF - IT Infrastructure Agreement - CAN
+SIF - IT Infrastructure Agreement - IRE
+SIF - IT Infrastructure Agreement - NZ
+SIF - IT Infrastructure Agreement - PL
+SIF - IT Infrastructure Agreement - RDI
+SIF - IT Infrastructure Agreement - SING
+SIF - IT Infrastructure Agreement - UK
+SIF - IT Infrastructure Agreement - US
+SIF - Letter of Intent
+SIF - License Order Form – AUS
+SIF - License Order Form – CAN
+SIF - License Order Form – IRE
+SIF - License Order Form – NZ
+SIF - License Order Form – PL
+SIF - License Order Form – RDI
+SIF - License Order Form – SING
+SIF - License Order Form – UK
+SIF - License Order Form – US
+SIF - Master Services Agreement – AUS
+SIF - Master Services Agreement – CAN
+SIF - Master Services Agreement – IRE
+SIF - Master Services Agreement – NZ
+SIF - Master Services Agreement – PL
+SIF - Master Services Agreement – RDI
+SIF - Master Services Agreement – SING
+SIF - Master Services Agreement – UK
+SIF - Master Services Agreement – US
+SIF - NDA - Customer
+SIF - NDA - Internal
+SIF - NDA - Mutual
+SIF - Office Lease - AUS
+SIF - Office Lease - CAN
+SIF - Office Lease - IRE
+SIF - Office Lease - NZ
+SIF - Office Lease - PL
+SIF - Office Lease - RDI
+SIF - Office Lease - SING
+SIF - Office Lease - UK
+SIF - Office Lease - US
+SIF - Stand Alone Statement of Work – AUS
+SIF - Stand Alone Statement of Work – CAN
+SIF - Stand Alone Statement of Work – IRE
+SIF - Stand Alone Statement of Work – NZ
+SIF - Stand Alone Statement of Work – PL
+SIF - Stand Alone Statement of Work – RDI
+SIF - Stand Alone Statement of Work – SING
+SIF - Stand Alone Statement of Work – UK
+SIF - Stand Alone Statement of Work – US
+SIF - Statement of Work – AUS
+SIF - Statement of Work – CAN
+SIF - Statement of Work – IRE
+SIF - Statement of Work – NZ
+SIF - Statement of Work – PL
+SIF - Statement of Work – RDI
+SIF - Statement of Work – SING
+SIF - Statement of Work – UK
+SIF - Statement of Work – US
+SIF - Statement of Work Kellogg - APAC
+SIF - Statement of Work Kellogg - EMEA
+SIF - Statement of Work Kellogg - N. America
+SIF - Statement of Work MDLZ
+SIF - Statement of Work PEP
+SIF - Tax and Professional - AUS
+SIF - Tax and Professional - CAN
+SIF - Tax and Professional - IRE
+SIF - Tax and Professional - NZ
+SIF - Tax and Professional - PL
+SIF - Tax and Professional - RDI
+SIF - Tax and Professional - SING
+SIF - Tax and Professional - UK
+SIF - Tax and Professional - US
+SIF - Third Party Software - AUS
+SIF - Third Party Software - CAN
+SIF - Third Party Software - IRE
+SIF - Third Party Software - NZ
+SIF - Third Party Software - PL
+SIF - Third Party Software - RDI
+SIF - Third Party Software - SING
+SIF - Third Party Software - UK
+SIF - Third Party Software - US
+Splahnet - Master Services Agreement
+Splashnet - Amendment to Master Services Agreement
+Splashnet - SOW
+Trademarks - AUS
+Trademarks - UK
+Trademarks - US

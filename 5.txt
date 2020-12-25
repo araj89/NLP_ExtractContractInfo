@@ -1,0 +1,144 @@
+DATA PROTECTION ADDENDUM
+The following terms and conditions of this Supplier Data Protection Agreement (the “DPA”) is entered into
+between Acme Company1, (“Customer”) on behalf of itself and its Authorized Affiliates and Acme Company2,
+LLC on behalf of itself and its Affiliates (collectively, “Supplier”) and applies to and is made part of the Contract(s),
+each a “Party”, together the “Parties”. For the purposes of this DPA only, and except where otherwise
+indicated, the term “Customer” shall include Customer and its Authorized Affiliates.
+RECITALS
+A. Supplier has entered into one or more purchase orders, contracts and/or agreements (the “Contract(s))”
+with Customer and/or Authorized Affiliates. In delivering the services under the Contract(s) (the “Services”),
+Supplier may process Customer Personal Data controlled by Customer and/or its respective customers,
+suppliers, or business partners.
+B. As part of its privacy program and its contractual arrangements, Customer has provided certain assurances
+to its employees, independent contractors, candidates, customers, suppliers and/or business partners to
+ensure the appropriate protection of Customer Personal Data when Customer engages third party
+Suppliers. Customer’s engagement of Supplier is conditioned upon Supplier’s agreement to the terms and
+conditions of this DPA.
+1. DEFINTIONS
+1.1. “Affiliate” means any entity that is directly or indirectly controlled by, controlling or under common
+control with a Party. “Control” for purposes of this definition means direct or indirect ownership of
+control of more than 50% of the voting interest of the subject entity.
+1.2. “Applicable Laws” means all applicable federal, state, local, provincial, and foreign data protection,
+privacy and data security laws, as well as applicable regulations and directives.
+1.3. “Authorized Affiliate” means any of Customer’s Affiliate(s) permitted to or otherwise receiving the
+benefit of Services pursuant to the Contract(s).
+1.4. “Authorized Persons” means any person who Processes Personal Data under this DPA on a Party’s
+behalf, including that Party’s employees, officers, directors, partners, principals, agents, representatives,
+contractors, and in the case of Supplier, its subcontractors.
+1.5. “Customer Data” means all information (i) provided to Supplier by or at the direction of Customer; (ii)
+created or obtained by Supplier on behalf of Customer; or (iii) which Supplier accesses at the direction of
+Customer, in the course of Supplier's performance under the Agreement, including (but not limited to)
+any information that pertains to Customer and/or is Confidential Information (as defined under the
+Agreement).
+1.6. “Process,” “Processed,” “Processes” or “Processing” means the collection, use, disclosure, transfer,
+storage, deletion, combination or other use of Customer Data, unless otherwise defined by Applicable
+Laws.
+1.7. “Personal Data” means any Customer Data that relates to an identified or identifiable natural person and
+any information protected under Applicable Laws. An identifiable person is one who can be identified,
+directly or indirectly, in particular by reference to an identification number or to one or more factors
+specific to his/her physical, physiological, mental, economic, cultural, or social identity.
+
+Supplier DPA- NA Supplier (12.18.18)
+
+1.8. “Security Incident” means any breach of data security that may result in the accidental or unlawful
+destruction, loss, alteration, unauthorized disclosure of or access to Customer Data.
+2. RELATIONSHIP OF THE PARTIES AND DATA USAGE
+2.1. Supplier’s Processing of Customer Data. Supplier shall at all times: (i) Process Customer Data only for the
+purpose of providing the Services to Customer under this Agreement and in accordance with Customer's
+documented instructions; and (ii) not Process Customer Data for its own purposes or those of any third
+party. Except as expressly set forth to the contrary in this Agreement, Supplier acknowledges that it has
+no right, title or interest in Customer Data (including all intellectual property or proprietary information)
+and may not sell, rent or lease Customer Data to anyone. In the event that the Services change such that
+Supplier may Process Personal Data from persons in the European Economic Area or Switzerland the
+Parties agree to amend this DPA to provide appropriate data protections for the Applicable Laws in that
+region.
+2.2. Confidentiality and Limitation of Access. Supplier shall ensure that any Authorized Person is subject to a
+strict duty of confidentiality (whether a contractual or statutory duty) and that they Process the
+Customer Data and Customer Data only for the purpose of delivering the Services under the Contract(s)
+to Customer. Supplier shall ensure that Supplier’s access to Customer Data is limited to those personnel
+performing Services in accordance with this DPA.
+2.3. Subcontractors. Supplier shall not subcontract any Processing of Customer Data to a subcontractor
+except subject to a written agreement with such subcontractor that contains terms no less protective of
+Customer Data than those contained in this DPA. Supplier shall remain fully liable to Customer for any
+breach by its subcontractors of this DPA.
+2.4. Deletion and Return. Upon Customer's request, or upon termination or expiry of this Agreement,
+Supplier shall destroy or return to Customer all Customer Data (including copies) in its possession or
+control (including any Customer Data Processed by its subcontractors). This requirement shall not apply
+to the extent that Supplier is required by any applicable law to retain some or all of the Customer Data, in
+which event Supplier shall isolate and protect the Customer Data from any further Processing except to
+the extent required by such law.
+3. SECURITY MEASURES, SECURITY INCIDENTS, AND AUDIT
+3.1. Security Measures. Supplier will implement and maintain all appropriate technical and organizational
+measures to ensure that Customer Data is protected against accidental or unlawful destruction or
+accidental loss, alteration, unauthorized disclosure or access, in particular where the Processing involves
+transmission of data over a network, and against all other unlawful forms of Processing. At a minimum,
+Supplier agrees to the Security Measures identified at https://www.allegisgroup.com/en/vendorsecurity-measures dated November 6, 2018. Supplier represents and warrants that it maintains and has
+implemented a written and comprehensive information security program in compliance with all
+Applicable Laws.
+3.2. Security Incidents. In the event of a Security Incident, Supplier shall (i) without undue delay inform
+Customer and provide written details of the Security Incident, including the type of data affected and, in
+the case of a Security Incident involving Personal Data, the identity of affected person(s), after such
+information becomes known or available to Supplier; (ii) provide timely information and cooperation as
+Customer may require to fulfill Customer's data breach reporting obligations; (iii) take such measures and
+actions as are appropriate to investigate, remedy, or mitigate the effects of the Security Incident and
+maintain documentation regarding such and keep Customer up-to-date about all developments in
+connection with the Security Incident; and (iv) reimburse Customer for the reasonable costs for
+Customer to prepare and send all notifications that are legally required or reasonably necessary (as
+
+Supplier DPA- NA Supplier (12.18.18) Page 2 of 4
+
+determined in the sole discretion of Customer). At the written request of Customer, Supplier agrees to
+provide, at its sole expense, credit monitoring and identity theft protection services to individuals
+affected by a Security Incident involving Personal Data of those individuals.
+3.3. Audit Rights. Customer shall have the right to inspect and audit the manner in which Supplier processes
+Customer Data and all access, storage, memory, user and transfer controls implemented by Supplier to
+ensure compliance with the terms of this DPA upon reasonable advance notice to Supplier and during
+normal business hours. In addition, upon Customer’s request, Supplier shall provide Customer with the
+results of any audit performed by or on behalf of Supplier that assesses the effectiveness of Supplier’s
+information security program as relevant to the privacy and security of Customer Data during the course
+of this Agreement.
+4. LIABILITY
+4.1. Notwithstanding anything else to the contrary in the Contract(s), Supplier acknowledges and agrees that
+it shall be liable for any loss of Customer Data arising under or in connection with the Contract(s) and this
+DPA to the extent such loss results from any failure of Supplier (or its Sub-Processors) to comply with its
+obligations under this DPA and/or Applicable Privacy Laws; and any exclusion of damages or limitation of
+liability that may apply to limit the Supplier's liability in the Contract(s) shall not apply to the Supplier's
+liability arising under or in connection with this DPA, howsoever caused, regardless of how such amounts
+or sanctions awarded are characterized and regardless of the theory of liability, which liability shall be
+expressly excluded from any agreed exclusion of damages or limitation of liability.
+4.2. The parties acknowledge and agree that any breach by Supplier of this DPA shall constitute a material
+breach of the Contract(s), in which event and without prejudice to any other right or remedy available to
+it, Customer may elect to immediately terminate the Contract(s) in accordance with the termination
+provisions in the Contract(s).
+4.3. Supplier shall, at its own expense, defend, indemnify and hold Customer harmless from and against any
+and all claims, suits, demands, actions, damages, losses, liabilities, proceedings, litigation, costs and
+expenses, including reasonable attorneys' fees, relating to or arising out of this DPA, including (i) the acts
+or obligations undertaken by Supplier or its employees, agents, or subcontractors pursuant to this DPA,
+including any improper, unauthorized or unlawful access to, use of, or disclosure of Personal Data, or (ii)
+any breach of this DPA by Supplier. Customer reserves the right to assume the exclusive defense and
+control of any matter otherwise subject to indemnification by Supplier, and Supplier shall fully cooperate
+with Customer in asserting a defense.
+5. GENERAL
+5.1. The obligations placed upon the Supplier under this DPA shall survive so long as Supplier and/or its SubProcessors Processes Customer Data. The provisions contained in this DPA and its attachments, exhibits
+and schedules that by their context are intended to survive termination or expiration will survive.
+5.2. This DPA may not be modified except by a subsequent written instrument signed by both parties.
+5.3. If any part of this DPA is held unenforceable, the validity of all remaining parts will not be affected.
+5.4. Any capitalized terms not otherwise defined in this DPA shall have the meaning given to them in the
+Contract(s). Except for the changes made by this DPA, the Contract(s) shall remain unchanged and in full
+force and effect. In the event of any conflict or inconsistency between this DPA and any other term or
+
+Supplier DPA- NA Supplier (12.18.18) Page 3 of 4
+
+terms of the Contract(s), this DPA shall prevail in respect of the subject matter (i.e. the protection of
+Personal Data).
+5.5. Clause and other headings in this DPA are for convenience of reference only and shall not constitute a
+part of or otherwise affect the meaning or interpretation of this DPA. Annexes to this DPA shall be
+deemed to be an integral part of this DPA to the same extent as if they had been set forth verbatim
+herein.
+5.6. This DPA shall be governed by and construed in all respects in accordance with the governing law and
+jurisdiction provisions set out in the Contract(s), unless required otherwise by Applicable Privacy Laws.
+5.7. This DPA may be executed in two or more counterparts, each of which shall be deemed an original and all
+of which taken together shall be deemed to constitute one and the same document. The Parties may sign
+and deliver this DPA by facsimile or email transmission
+By signing below, each Party acknowledges that it has read and understood the terms of this DPA and agrees to be
+bound by them.

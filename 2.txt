@@ -1,0 +1,32 @@
+Acme Company 1 LLC
+				Software as a Service Agreement
+This AGREEMENT is by and between A.cme Company1, LLC.("A.cme"), a Delaware limited liability company having a place of business at 5523 Technology Drive, Lowell, MA 11111 and A.cme Company 2 Services, Inc.("Customer"), having a place of business at 1593 Spring Hill Rd #600, Vienna, VA 22182
+
+The Effective Date of this Agreement is october 14, 2016
+Definition. for the purposes of this Agreement, the following terms shall have the following meanings:
+	(a) "Systerm" shall include any and all contract Logix software listed and described herein and any associated Customer data, and Services.
+	(b) Hardware/Operating System shall mean the required hardware and operating system as set forth and described in the Technical Specifications found on the Contract Logix website.
+
+a.cme agrees to host the "System" on A.cme servers for the Customers and the Customer will have use of the System.
+
+Services. A.cme agrees to act as an Application Service Provider for the purposes of providing the Services and the version of the System for users defined within Schedules A and B. The system will be accessible at a URL provided by A.cme to the Customer. Customer agrees that only one individual per full user access will be provided access codes within the Customers organization and these individuals will be the only persons authorized to use the System. Custerm shall keep access codes confidential.
+
+Initial Setup Fee(s). Customers agrees and promises to pay to the order of A.cme the set-up costs as defined in Schedule A.Initial setup includes setup of server and related hardware, configuration of application, setup of data back ups and recovery options.
+
+Monthly Access Fees. Customer agrees and promises to pay to the order of A.cme the monthly access fees, on a monthly basis beginning on the effective date of this agreement: The Access Fees are outlined within Schedule A.
+
+Annual Fee Increase. Said monthly user fees are subject to change, at the discretion of the A.cme, and increase annually on July 1 of each year starting no earlier than July 1, 2017, The annual increase shall be the equivalent of the prior year's user Fees, plus a percentange no greater than 4.0%.
+
+Server Environment: the server room will be a purpose built room with a cooled environment with built in power redundancy.
+
+Security. the hardware and software will be held in a secure hosting environment with a minimum of SSAE16 Audits. the server will be password protected and the server room will be locked and accessed by authorized company employees only.
+
+File Backup: an off-site backup of customer database will be performed on a nightly basis to no less than one off-site location.
+
+Request File Backup Service: Customer may request or obtain a copy of their full database back-up at a cost of $59 per request. Said back-up files will be provided to customer using ftp, https download, or DVD; whichever is requested by Customer. Customer may also opt to receive an automatic backups at a defined rate, such as once per month, or once per quarter, or at another determined interval.
+
+Connectivity Service Availabilty. The Customer will have access to the system 24 x 7 x 365. if CA.cme determines in its reasonable commercial judgment that the shared server was unavailable for one or more hours during the guaranteed hours of operation during a calendar month, A.cme, upon Customer's request, will credit customer's account $25 for each hour over the first hour of interrupted service. Credit will not exceed the monthly hosting fee. Customer shall promptly notify A.cme of any website unavailability, and shall provide reasonable information as requeted for proper diagnosis/repair and for calculation of any credit. A.cme is not responsible for unavailability caused by circumstances beyond its control such as acts of God, act of govenment, flood, fire, earthquake, civil unrest, act of terror, strike or other labor problem (other than one involving Our employees), your internet service provider failure or delay, or denial of service attack.
+
+Software Support Availability and Commitment Scope. during the Term, Contract Logix shall provide customer with the following:
+
+	(a) Its best effort to correct within a reasonable time of customer's request and without charge to Customer any error in the system logic as supplied by Contract Logix. a.cme will respond to Critical Failures within 1 hour and to Non Critical  failures within 2 hours. Critical Failures recieve the highest priority and will be acted upon immediately until resolved, but will be resolved no later than one business day. Non Critical Failures will be given due diligent effort and resolved in a timely manner, but will be resolved no later than two business days. Upon request, the customer agrees to provde a.cme with backup copies or printouts of any error messages of the Sysmtem, or of data in strage that ehibits evidence of a system logic error. Customer further agrees to provide A.cme with access to customer's computer and sufficient computer time to enable a.cme to duplicate the problem, determine whether or not it results from the system software, and after corrective action or replacement ahs taken place, determine that the problem has been alleviated;

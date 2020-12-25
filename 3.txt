@@ -1,0 +1,38 @@
+	statement of Work and Professional Services Proposal and Agreement
+			November 17, 2017
+
+Customer Name:Acme Company
+
+7301 Parkway Drive Hanover, MD 21076
+Contact Person:
+
+Description of Service
+Allegis Group / TEKsystems has requested this Statement of Work to complete the following deliverables by the Contract
+Logix Professional Services team.
+An Acceptance of Completion document will be agreed upon and signed at the completion of the proposed deliverables.
+
+Consulting Deliverables Hours
+Import 1300 agreements from TEKsystems electronic format to Contract Logix system
+ Discovery & Design 7
+ Configuration & Data Import 9
+Update Contract Types and Archive “z-Do Not Use” Contracts. These record types will be
+reviewed and confirmed for change of status:
+ Records that are Active Codes with Active Business & under a contract type that starts
+with “z-Do not use”: 177
+ Records with inactive codes under a contract type starting with “z-Do not use” that
+are not archived: 8733
+ Records with Active codes with no Active business and no spread under a contract
+type that starts with “z-Do not use”: 702
+ Active status agreements that are inactive customer codes: 13819
+ Discovery, Design, Testing and Execution 8
+Statement of Work for Additional Professional Services
+
+Consulting Fee
+By signing this Statement of Work, Allegis Group / TEKsystems agrees that payment for the proposed professional services
+is due upon execution of contract, and before services can be scheduled and delivered.
+Professional Services Hours Rate Cost
+Document Data Migration 16 Flat Rate $2,970.00
+Contract Type Update & Archive 8 $195.00 $1560.00
+Total 24 $4,530.00
+
+This proposal is valid until December 15, 2017.

@@ -1,0 +1,18 @@
+THIS AGREEMENT is by and between ACmeCompany1, LLC.("Contract Logix"), a Delaware limited liability company having a place of business at 248 Mill Road, Building 1, Unit 3, Chelmsford MA 01824, USA, and ACmeCompany2 Company, Inc.("Licensee"), having a place of business at Ambest RD, Oldwick, NJ 08858.
+
+The Effective date of this Agreement is March 31, 2014.
+	WHEREAS, Contract Logix has the Contract Logix System(hereafter deflined and referred to as the "System") and desires to install and put into operation the System for the Licensee.
+	WHEREAS, Licensee desires Contract Logix to install the System under the terms and conditions hereinafter set forth.
+
+	NOW, THEREFORE, in consideration of the mutual convenants contalned in this Agreement, the parties agree as follows.
+
+						ARTICLE 1
+						DEFINITIONS AND AGREEMENT
+1.0		Definitions. For the purposes of this Agreement, the following terms shall have the following meanings:
+			(a)		"System" shall include the latest version (Version 13Be.0) as of the date of this agreement of the "Contract Logix Professinal Edition" computer system in object code and the manuals, specifications and documentation accompany the system ("Documentation"), Individually and/or collectively, together with all amendments, upgrades, enhancements and modifications thereto which have been accepted by Licensee, as set forth and described in Schedules A and C.
+			(b)		Hardware/Operating System shall mean the required hardware and operating system as set forth and described in Schedule B.
+1.1		The "Term" of this Agreement and the License begin on the "Effective Date" and continue indefinnitely until the Agreement is terminated under VII
+
+						ARTICLE VI
+						FEES AND EXPENSES
+The financial terms set forth below are an offer, which will expire on March 31, 2014 unless, by that date, Licensee accepts by delivering to Contract Logix a fully signed copy and the Agreement.
