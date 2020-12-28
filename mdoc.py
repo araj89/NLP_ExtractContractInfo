@@ -93,5 +93,7 @@ if __name__ == '__main__':
     sents = split_plaintext_to_sents(sent_seg_model, p_text)
 
     res_class = get_class(word_sim_model, sents, 'myclass.txt')
+    print ('length of sentences : {}'.format(len(sents)))
     print (res_class)
+
 
